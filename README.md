@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### A bit about me
+### A Bit About Me
 Hi, I'm Ridwan Hossain. I'm a full-stack software developer 🚀 with a passion for web programming 🌎 and a strong interest in data analysis and algorithm design 📊. 
 I'm currently a 3rd-year student at the University of Ontario Institute of Technology 👨‍🎓, where I am also a research and development intern 👨‍💻.
 
@@ -27,4 +27,5 @@ I am highly effective in a collaborative environment, where I have taken on the 
 
 I am passionate about working in a large team to engineer leading software and look forward to continuing to develop high-level technical solutions ⚙️.
 
+### My GitHub Metrics
 ![Metrics](/github-metrics.svg)
