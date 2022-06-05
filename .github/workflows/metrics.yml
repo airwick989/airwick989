@@ -18,3 +18,4 @@ jobs:
           config_timezone: America/Nipigon
           base: header, repositories
           plugin_lines: yes
+          plugin_topics: yes
