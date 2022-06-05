@@ -29,3 +29,6 @@ I am passionate about working in a large team to engineer leading software and l
 
 ### My GitHub Metrics
 ![Metrics](/github-metrics.svg)
+
+### Talking about some Personal Stuff
+👀
