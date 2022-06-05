@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋, I'm Ridwan!
 
 <!--
 **airwick989/airwick989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Ridwan Hossain. I'm a full-stack software developer with a passion for web programming and a strong interest in data analysis and algorithm design. I possess thorough technical experience across numerous key projects, where objectives included developing optimal code solutions for a variety of tasks. Tasks included fulfilling an array of use cases, surveying critical parameters, and working within crucial constraints to meet project expectations. I have extensive knowledge of key principles that drive successful software development and architecture and have been able to apply them in conjunction with a number of relevant languages and software technologies. I am highly effective in a collaborative environment, where I have taken on the leadership role across a majority of my projects, allowing me to excel in delegating work amongst team members according to strengths and administering strong communication. I am passionate about working in a large team to engineer leading software and look forward to continuing to develop high-level technical solutions.
