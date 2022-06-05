@@ -28,4 +28,4 @@ I am highly effective in a collaborative environment, where I have taken on the 
 I am passionate about working in a large team to engineer leading software and look forward to continuing to develop high-level technical solutions ⚙️.
 
 ### My GitHub Metrics
-![Metrics](/github-metrics.svg)
+
