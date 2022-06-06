@@ -35,6 +35,46 @@ I am passionate about working in a large team to engineer leading software and l
 ![Metrics](/github-metrics.svg)
 
 ### Some of my Technical Skills
+- Backend
+  - Python
+  - Java
+  - JavaScript ES6
+  - Node.js
+  - TypeScript
+  - Django REST
+  - PHP
+  - C
+  - C++
+  - Bash / Shell Scripting
 - Frontend
-  - hello
-- Hello 
+  - HTML5
+  - CSS3
+  - Svelte
+  - Tailwind CSS
+  - React
+  - Next.js
+  - Bootstrap
+Databases
+  - MySQL
+  - PostgreSQL
+  - Azure Cosmos DB
+Tools & Technologies
+  - Apache
+  - npm
+  - Git
+  - Docker
+  - Jenkins
+  - Junit
+  - Python Unittest
+  - Selenium
+Architecture & Processes
+  - Data Structures & Algorithms
+  - Software Architecture Patterns
+  - Software Design Patterns
+  - UML
+  - Agile/SCRUM
+  - Waterfall, Spiral, & Incremental Development
+Operating Systems
+  - Linux
+  - Windows
+  - MacOS
