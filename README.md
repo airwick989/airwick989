@@ -35,7 +35,7 @@ I am passionate about working in a large team to engineer leading software and l
 ![Metrics](/github-metrics.svg)
 
 ### Some of my Technical Skills
-- Backend
+- ***Backend***
   - Python
   - Java
   - JavaScript ES6
@@ -46,7 +46,7 @@ I am passionate about working in a large team to engineer leading software and l
   - C
   - C++
   - Bash / Shell Scripting
-- Frontend
+- ***Frontend***
   - HTML5
   - CSS3
   - Svelte
@@ -54,11 +54,11 @@ I am passionate about working in a large team to engineer leading software and l
   - React
   - Next.js
   - Bootstrap
-- Databases
+- ***Databases***
   - MySQL
   - PostgreSQL
   - Azure Cosmos DB
-- Tools & Technologies
+- ***Tools & Technologies***
   - Apache
   - npm
   - Git
@@ -67,14 +67,14 @@ I am passionate about working in a large team to engineer leading software and l
   - Junit
   - Python Unittest
   - Selenium
-- Architecture & Processes
+- ***Architecture & Processes***
   - Data Structures & Algorithms
   - Software Architecture Patterns
   - Software Design Patterns
   - UML
   - Agile/SCRUM
   - Waterfall, Spiral, & Incremental Development
-- Operating Systems
+- ***Operating Systems***
   - Linux
   - Windows
   - MacOS
