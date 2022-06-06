@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### A bit about Me
 Hi, I'm Ridwan Hossain. I'm a full-stack software developer 🚀 with a passion for web programming 🌎 and a strong interest in data analysis and algorithm design 📊. 
-I'm currently a 3rd-year student at the University of Ontario Institute of Technology 👨‍🎓, where I am also a research and development intern 👨‍💻.
+I'm currently a 3rd-year student @UOIT 👨‍🎓, where I am also a research and development intern 👨‍💻.
 
 I possess thorough technical experience across numerous key projects, where objectives included developing optimal code solutions for a variety of tasks. Tasks included fulfilling an array of use cases, surveying critical parameters, and working within crucial constraints to meet project expectations ✅. 
 
