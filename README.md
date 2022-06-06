@@ -27,8 +27,6 @@ I am highly effective in a collaborative environment, where I have taken on the 
 
 I am passionate about working in a large team to engineer leading software and look forward to continuing to develop high-level technical solutions ⚙️.
 
-**For a full list of my technical skills, take a look at my [Resume](/Ridwan%20Hossain%20-%20Resume%202022.pdf)** 📝
-
 **Lets connect!**
 - <img src="logo.png" alt="logo" width="15"/> [LinkedIn](https://www.linkedin.com/in/ridwan-hossain-a5b3121a4)
 - 📧 Email: ridwanhossain989@gmail.com
