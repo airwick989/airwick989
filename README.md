@@ -27,8 +27,11 @@ I am highly effective in a collaborative environment, where I have taken on the 
 
 I am passionate about working in a large team to engineer leading software and look forward to continuing to develop high-level technical solutions ⚙️.
 
+- 📝 [Resume](/Ridwan-Hossain-Resume)
+- 📧 Email: ridwanhossain989@gmail.com
+
 ### My GitHub Metrics
 ![Metrics](/github-metrics.svg)
 
-### Talking about some Personal Stuff
+### Talking about Personal Stuff
 👀
