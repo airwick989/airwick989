@@ -35,7 +35,7 @@ I am passionate about working in a large team to engineer leading software and l
 ![Metrics](/github-metrics.svg)
 
 ### Some of my Technical Skills
-- ***Backend***
+- ***Backend*** <img src="https://cdn-icons-png.flaticon.com/512/2166/2166823.png" width="15">
   - Python
   - Java
   - JavaScript ES6
