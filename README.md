@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 ### A bit about Me
 Hi, I'm Ridwan Hossain. I'm a full-stack software developer 🚀 with a passion for web programming 🌎 and a strong interest in data analysis and algorithms 📊. 
-I'm currently a 4th-year student @UOIT 👨‍🎓, where I am also a Software Development Intern 👨‍💻.
+I'm currently a 4th-year student @OTU (Ontario Tech University) 👨‍🎓, where I am also a Software Research and Development Technician 👨‍💻.
 
-I possess thorough technical experience across numerous key projects, where objectives included developing optimal code solutions for a variety of tasks. Tasks included fulfilling an array of use cases, surveying critical parameters, and working within crucial constraints to meet project expectations ✅. 
+I possess thorough technical experience across numerous key projects focused in full-stack web development, mobile development, DevOps engineering, cloud computing, software engineering, and real-time embedded software. Tasks included fulfilling an array of use cases, surveying critical parameters, and working within crucial constraints to meet project expectations ✅. 
 
-I have extensive knowledge of key principles that drive successful software development and architecture and have been able to apply them in conjunction with a number of relevant languages and software technologies 🛠.
+I have extensive knowledge of key principles that drive successful architecture and I have been able to apply them in conjunction with a number of relevant languages and software technologies 🛠.
 
-I am highly effective in a collaborative environment, where I have taken on the leadership role across a majority of my projects, allowing me to excel in delegating work amongst team members according to strengths and administering strong communication 🤝.
+I am highly effective in a collaborative environment and I possess excellent communication skills which allow me to thrive when working within a large team 🤝.
 
-I am passionate about working in a large team to engineer leading software and look forward to continuing to develop high-level technical solutions ⚙️.
+I am passionate about working with others to engineer leading software and look forward to continuing to develop high-level technical solutions ⚙️.
 
 **Lets connect!**
 - <img src="logo.png" alt="logo" width="15"/> [LinkedIn](https://www.linkedin.com/in/ridwan-hossain-a5b3121a4)
@@ -37,10 +37,13 @@ I am passionate about working in a large team to engineer leading software and l
 ### Some of My Technical Skills
 - ***Backend*** <img src="https://cdn-icons-png.flaticon.com/512/2166/2166823.png" width="20">
   - Python
+  - Flask
   - Java
   - JavaScript ES6
   - Node.js
   - TypeScript
+  - Dart
+  - Kotlin
   - Django REST
   - PHP
   - C
@@ -51,18 +54,23 @@ I am passionate about working in a large team to engineer leading software and l
   - CSS3
   - Svelte
   - Tailwind CSS
-  - React
+  - React.js
   - Next.js
   - Bootstrap
+  - Flutter
 - ***Databases*** <img src="https://w7.pngwing.com/pngs/310/475/png-transparent-database-computer-icons-computer-software-information-database-miscellaneous-angle-information-technology.png" width="20">
   - MySQL
   - PostgreSQL
+  - Firebase
+  - SQLite
+  - MongoDB
   - Azure Cosmos DB
 - ***Tools & Technologies*** <img src="https://cdn3.iconfinder.com/data/icons/illustricon-tech/512/browser.maintenance-512.png" width="20">
-  - Apache
+  - Apache Kafka
   - npm
   - Git
   - Docker
+  - Google Kubernetes Engine (GKE)
   - Jenkins
   - Junit
   - Python Unittest
@@ -78,3 +86,4 @@ I am passionate about working in a large team to engineer leading software and l
   - Linux
   - Windows
   - MacOS
+  - Android
