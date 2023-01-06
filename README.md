@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### A bit about Me
 Hi, I'm Ridwan Hossain. I'm a full-stack software developer 🚀 with a passion for web programming 🌎 and a strong interest in data analysis and algorithms 📊. 
-I'm currently a 4th-year student @OTU (Ontario Tech University) 👨‍🎓, where I am also a Software Research and Development Technician 👨‍💻.
+I'm currently a 4th-year software engineering student @OTU (Ontario Tech University) 👨‍🎓, where I am also a Software Research and Development Technician 👨‍💻.
 
 I possess thorough technical experience across numerous key projects focused in full-stack web development, mobile development, DevOps engineering, cloud computing, software engineering, and real-time embedded software. Tasks included fulfilling an array of use cases, surveying critical parameters, and working within crucial constraints to meet project expectations ✅. 
 
