@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### A bit about Me
-Hi, I'm Ridwan Hossain. I'm a full-stack software developer 🚀 with a passion for web programming 🌎 and a strong interest in data analysis and algorithms 📊. 
-I'm currently a 4th-year software engineering student @OTU (Ontario Tech University) 👨‍🎓, where I am also a Software Research and Development Technician 👨‍💻 working on projects in collaboration with IBM and the National Research Council of Canada (for more details on these, check out my LinkedIn linked under **Lets connect!**).
+Hi, I'm Ridwan Hossain. I'm a full-stack software developer 🚀 with a passion for web programming 🌎 and a strong interest in data analysis and automating software processes 📊. 
+I'm currently a 4th-year software engineering student @OTU (Ontario Tech University) 👨‍🎓, where I am also a Software Research and Development Technician 👨‍💻. I've worked on projects in collaboration with IBM, the National Research Council of Canada, and Team Eagle Ltd. Airfield Operations (for more details on these, check out my LinkedIn linked under **Lets connect!**).
 
 I possess thorough technical experience across numerous key projects focused in full-stack web development, mobile development, DevOps engineering, cloud computing, software engineering, and real-time embedded software. Tasks included fulfilling an array of use cases, surveying critical parameters, and working within crucial constraints to meet project expectations ✅. 
 
@@ -46,9 +46,11 @@ I am passionate about working with others to engineer leading software and look 
   - Kotlin
   - Django REST
   - PHP
+  - SQL
   - C
   - C++
   - Bash / Shell Scripting
+  - Assembly
 - ***Frontend*** <img src="https://w7.pngwing.com/pngs/257/475/png-transparent-web-development-html5-video-css3-software-development-frontend-web-development-thumbnail.png" width="20">
   - HTML5
   - CSS3
@@ -71,8 +73,13 @@ I am passionate about working with others to engineer leading software and look 
   - Git
   - Docker
   - Google Kubernetes Engine (GKE)
+  - Microsoft Azure DevOps
+  - SonarQube
   - Jenkins
   - Junit
+  - jQuery
+  - Gradle
+  - Maven
   - Python Unittest
   - Selenium
 - ***Architecture & Processes*** <img src="https://www.seekpng.com/png/full/423-4234032_software-architecture-web-development-process-png.png" width="20">
