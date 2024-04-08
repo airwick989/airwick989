@@ -33,15 +33,15 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -138,20 +138,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 137mb of code in 15169 edited files across 196 commits</small>
+                <small>estimation from 3.56bb of code in 21803 edited files across 205 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="361.06149714572166" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="361.06149714572166" y="0" width="73.39390369446639" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="434.455400840188" y="0" width="10.407018418794362" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="444.8624192589824" y="0" width="6.6558922033425585" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="451.51831146232496" y="0" width="4.988143793064517" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="456.5064552553895" y="0" width="1.3595529881907347" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="457.8660082435802" y="0" width="1.196471251546378" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="459.0624794951266" y="0" width="0.9375205048734568" height="8" fill="#fedf5b"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="385.5863523910973" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="385.5863523910973" y="0" width="35.15405845847732" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="420.74041084957463" y="0" width="23.051372315095698" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="443.7917831646703" y="0" width="10.041059004639271" height="8" fill="#fedf5b"/>
+                    <rect mask="url(#languages-bar)" x="453.8328421693096" y="0" width="2.8890641675410254" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="456.72190633685057" y="0" width="2.1651593888265954" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.8870657256772" y="0" width="0.5935925970943322" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="459.48065832277155" y="0" width="0.5193416772284376" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -171,6 +171,12 @@
                             <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C++
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#fedf5b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Cython
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -195,12 +201,6 @@
                             <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Java
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#fedf5b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Cython
                     </div>
                 </div>
                 <div class="row footnote warning">
@@ -401,12 +401,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 19.402827072811647%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 19.40774134547717%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">24%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Cython</span>
-                                <div class="bar" style="width: 0.5031048013467759%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.5032322257764158%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
