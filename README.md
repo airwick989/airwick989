@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 ### A bit about Me
 Hi, I'm Ridwan! I'm a full-stack software developer 🚀 with a passion for web programming 🌎 and a strong interest in data analysis and automating software processes 📊. 
-I'm currently a 4th-year software engineering student @OTU (Ontario Tech University) 👨‍🎓, where I am also a Software Research and Development Technician 👨‍💻. I've worked on projects in collaboration with IBM, the National Research Council of Canada, and Team Eagle Ltd. Airfield Operations (for more details on these, check out my LinkedIn linked under **Lets connect!**).
+I'm a software engineering graduate from OTU (Ontario Tech University) 👨‍🎓, where I was also a Software Research and Development Technician 👨‍💻. I've worked on projects for IBM, the National Research Council of Canada, and Team Eagle Ltd. Airfield Operations (for more details on these, check out my LinkedIn linked under **Let's connect!**).
 
-I possess thorough technical experience across numerous key projects focused in full-stack web development, mobile development, DevOps engineering, cloud computing, software engineering, and real-time embedded software. Tasks included fulfilling an array of use cases, surveying critical parameters, and working within crucial constraints to meet project expectations ✅. 
+I possess thorough technical experience across numerous key projects focused on full-stack web development, mobile development, DevOps engineering, cloud computing, and real-time embedded software. My project tasks included fulfilling an array of use cases, surveying critical parameters, and working within crucial constraints to meet project expectations ✅. 
 
-I have extensive knowledge of key principles that drive successful architecture and I have been able to apply them in conjunction with a number of relevant languages and software technologies 🛠.
+I have extensive knowledge of key principles that drive successful architecture and I have been able to apply them using numerous relevant languages and software technologies 🛠.
 
-I am highly effective in a collaborative environment and I possess excellent communication skills which allow me to thrive when working within a large team 🤝.
+I am highly effective in a collaborative environment and possess excellent communication skills, allowing me to thrive within a large team 🤝.
 
-I am passionate about working with others to engineer leading software and look forward to continuing to develop high-level technical solutions ⚙️.
+I am passionate about working with others to engineer novel software and look forward to continuing to develop leading technical solutions ⚙️.
 
 **Lets connect!**
 - <img src="logo.png" alt="logo" width="15"/> [LinkedIn](https://www.linkedin.com/in/ridwan-hossain-a5b3121a4)
